@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Who are we?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Transformation & Excellence Center for Health (TECH) has been functioning as a fundamental and significant component of the National Institute of Health.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It was inaugurated by the Special Assistant to the Prime Minister on National Health Services, Regulations and Coordination, Dr Faisal Sultan in February 2021. It is involved in transforming the technical aspects of public health-related activities to improve the healthcare system in Pakistan.
 
-[jekyll-organization]: https://github.com/jekyll
+TECH aims to drive the digital transformation of the healthcare system and services within Pakistan. It emphasizes to guide, support,develop and deliver IT-centric healthcare projects in collaboration with the Ministry of National Health Services, in order to facilitate international and regional collaborations, seek technical assistance, and participate in global disease control more effectively, thereby strengthening the vision & mission of NIH.
