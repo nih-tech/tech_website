@@ -1,7 +1,12 @@
 docs_list_title: Galleries
 options:
-- title: Gallery 1
-  url: /gallery1
-- title: Gallery 1
-  imgpath: /assets/images/aboutus.png
-  url: /gallery1
+- title: Vaccination drive
+  url: /vaccinedrive.html
+- title: BOG Visit
+  url: /bogvisit.html
+- title: Fellowship MOU Signing
+  url: /fellowship.html
+- title: NIC Visit
+  url: /nic.html
+- title: HR Practices
+  url: /hrpractices.html

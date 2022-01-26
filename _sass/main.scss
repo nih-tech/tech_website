@@ -115,7 +115,7 @@ h2 {
   flex-direction: row;
   padding-top: 20px;
   justify-content: space-around;
-  text-align: center;
+  text-align: left;
   padding-left: 20px;
   h3 {
     color: black;
@@ -144,7 +144,7 @@ h2 {
     }
   }
   div {
-    width: 100%;
+    //width: 100%;
     padding: 10px;
   }
 
@@ -895,7 +895,7 @@ h2 {
   border-radius: 15px;
 }
 .card1 .text_message p{
-  text-align: left;
+  text-align: justify;
 }
 .card1 .text_message h4{
   text-align: right;
@@ -917,26 +917,38 @@ h2 {
   text-align: left;
 }
 .gallery_r1{
-  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/slide3.png);
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/vaccine_drive_through.jpg);
     background-size: cover;
     height: 348px;
     border-radius: 20px;
     // background-position: 0px -96px;
 }
 .gallery_r1-1{
-  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/slide3.png);
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/dr_faisal_sultan_visit.jpg);
   background-size: cover;
   height: 348px;
   border-radius: 20px;
 }
 .gallery_r2{
-  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/slide3.png);
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/nih_fellowship_mou_sign.jpg);
   background-size: cover;
   height: 348px;
   border-radius: 20px;
 }
 .gallery_r2-1{
-  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/slide3.png);
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/data_center_inaugration.jpg);
+  background-size: cover;
+  height: 348px;
+  border-radius: 20px;
+}
+.gallery_r3{
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/nic_1.jpg);
+  background-size: cover;
+  height: 348px;
+  border-radius: 20px;
+}
+.gallery_r3-1{
+  background-image: linear-gradient(270deg, rgba(172,232,62,0.5) 29.17%, rgba(141,206,23,0.0514706) 78.13%, rgba(138,203,19,0) 100%),url(/assets/images/hr_2.jpg);
   background-size: cover;
   height: 348px;
   border-radius: 20px;

@@ -192,7 +192,7 @@ layout: default
           <div class="row">
             <div class="col-lg-6 phone-mt-20">
               <div class="card mt-0 mt-xl-2">
-                <img src="/assets/images/pills.png" alt="pills">
+                <img src="/assets/images/life_line.png" alt="pills">
                 <ul>
                   <li>
                     <object data="/assets/images/leaf-left.png" width="14" height="14"></object>
@@ -215,7 +215,7 @@ layout: default
             </div>
             <div class="col-lg-6 phone-mt-20">
               <div class="card mt-0 mt-xl-4">
-                <img src="/assets/images/building.png" alt="building">
+                <img src="/assets/images/nih-01.png" alt="building">
                 <ul>
                   <li>
                     <object data="/assets/images/leaf-left.png" width="14" height="14"></object>
@@ -241,13 +241,12 @@ layout: default
   <div class="our-process-section">
     <div class="container-lg" style="max-width: 1200px;">
       <h2>Our Services</h2>
-      <p>Eversince it’s establishment in late 2020, TECH has played a vital role to <br /> fill the gaps in digital
-        transformations within healthcare in Pakistan</p>
+     
       <div class="process-diagram">
         <object class="ellipse" data="/assets/images/ellipse.svg" width="1200" height="1200"></object>
         <object class="center-abs" data="/assets/images/leaf-left.png" width="92" height="92"></object>
         <div class="image-container-process-1" data-bs-toggle="tooltip" data-bs-placement="bottom"
-          title="<h4>Data Analytics</h4><br>Provide state of the analytics for efficient data driven decision making">
+          title="<h4>Data analytics</h4><br>Provide state of the art analytics for efficient data driven decision making.">
           <div class="image-container-process">
             <img src="/assets/images/process1.png" alt="process-diagram">
             <object width="92" height="92"></object>
@@ -255,10 +254,10 @@ layout: default
           </div>
         </div>
         <div class="image-container-process-2" data-bs-toggle="tooltip" data-bs-placement="bottom"
-          title=" <h4>Digital Health</h4><br>Provide technical expertise in formaulation of Digital Health Policy &  strategize digital health transformation implementation.">
+          title=" <h4>Digital health</h4><br>Provide technical expertise in formaulation of Digital Health Policy &  strategize digital health transformation implementation.">
           <div class="image-container-process">
             <img src="/assets/images/process2.png" alt="process-diagram">
-            <p>     Digital Health</p>
+            <p>     Digital health</p>
           </div>
           <object width="92" height="92"></object>
         </div>
@@ -266,7 +265,7 @@ layout: default
           title="
             <div>
               <h4>Integrations</h4>
-              <br>Establish Standardized data streams and linkages between various Health Information System
+              <br>Establish Standardized data streams and linkages between various Health Information System.
             </div>
           ">
           <div class="image-container-process">
@@ -279,7 +278,7 @@ layout: default
         <div class="image-container-process-4" data-bs-toggle="tooltip" data-bs-placement="bottom"
           title="
           <h4>Data-driven decision making</h4> <br>
-          Collabrations with public and private sector">
+          Collabrations with public and private sector.">
           <div class="image-container-process">
             <img src="/assets/images/process4.png" style="margin-top: 20px;" alt="process-diagram">
             <p>Data-driven <br /> decision making</p>
@@ -289,13 +288,13 @@ layout: default
         <div class="image-container-process-5" data-bs-toggle="tooltip" data-html="true" data-bs-placement="bottom"
           title="
             <div>
-              <h4>National Health<br>Data Center</h4>
+              <h4>National health<br>data center</h4>
              Establish & maintain National Health Data Center. The National Health Data Center shall function as the national central repository for all aspects of      health information and data.<br>
             </div>
           ">
           <div class="image-container-process">
             <img src="/assets/images/process5.png" alt="process-diagram">
-            <p>National Health<br>Data Center</p>
+            <p>National health<br>data center</p>
           </div>
           <object  width="92" height="92"></object>
         </div>
@@ -310,21 +309,20 @@ layout: default
     <div class="card1">
       <div class="row m-0" style="display: flex;">
         <div class="col-md-2 Message_img">
-          <img src="/assets/images/Maj.GenAamer Ikram.jpeg" width="100px" height="100px">
+          <img src="/assets/images/ed.jpeg" width="100px" height="100px">
         </div>
         <div class="col-md-9 text_message">
+          <p>At the National Institutes of Health Islamabad, we aim, and so strive for excellence with the following two paradigms in practice:</p>
+          <p class="lead fw-bold">To Build</p>
           <p>
-            It gives me a feeling of extreme honour and pleasure to head the National Institutes of Health, Islamabad. Here we aim, and so strive for excellence with the following two paradigms in practice:
-            <br><br>To Build
-            It begins with our people. Our talented team is carefully built with attention to values and skills that align with our culture to lead us through developmental growth. We develop our strengths through new products, new skills and new ideas. We build our capabilities through more efficient processes with substantial and compelling compliance of SOPs, more excellent knowledge, and leading technology. 
-
-            <br><br>To be Great
-            Production & Delivery are worthy ends but the means to those ends matter. We have built this Organization where compliance, safety, keenness and sustainability are rooted in our definition of working since our serving through decades. We set the bar high and then, throughout the Organization, strive to push it higher. 
-
-            “Being exceptionally skilled takes great people empowered to have and share great ideas.
-
+           It begins with our people. Our talented team is carefully built with attention to values and skills that align with our culture to lead us through developmental growth. We develop our strengths through new products, new skills, and new ideas. We build our capabilities through more efficient processes with substantial and compelling compliance of SOPs, more excellent knowledge, and leading technology. </p>  
+            <p class="lead fw-bold">To Deliver</p>
+            <p>Design, Production & Delivery are worthy ends, but the means to those ends matter. We have built this Organization where compliance, safety, keenness, and sustainability are rooted in our definition of working since our service through decades. We set the bar high and then, throughout the Organization, strive to push it higher.
           </p>
-          <h4>Major General Aamer Ikram</h4>
+           <p>“Being <b>exceptionally</b> skilled takes great people empowered to have and share great ideas.</p>
+          <h4>Major General Aamer Ikram, HI(M)</h4>
+           <h5 style="text-align: right; font-size:15px;">EXECUTIVE DIRECTOR</h5>
+           <h5>National Institutes of Health - Islamabad</h5>
         </div>
       </div>
     </div>
@@ -345,11 +343,16 @@ layout: default
               <img src="/assets/images/adeel.jpg" width="100px" height="100px">
             </div>
             <div class="col-md-9 text_message">
-              <p>
-                I feel very privileged to be writing this message <br>as a Chief Information Officer. At TECH NIH we have
-                earned a reputation for helping our digital health projects to transform the way in which the public can
-                easily get access to the services provided by NIH through different mediums.
-              </p>
+              <p> Welcome to Transformation & Excellence Centre for Health - NIH!<br><br>Navigating our website, I hope you get to know more about the qualities that make our organization an outstanding provider of essential digital health solutions and a wonderful place to build a career.</p>
+          <p class="lead fw-bold">We provide service with a human touch.</p>
+          <p>
+           I feel very privileged to be writing this message as Chief Information Officer TECH. At TECH-NIH we have earned a reputation in the area of digital health services for one simple reason—we have great people, and we aim to transform the way in which the public can easily get access to the services provided by NIH through different mediums. 
+           Under the visionary leadership of the Executive Director, NIH, TECH-NIH team strives to bring passion, pride and experience in whatever we do.<br></p>  
+          
+            <p>Our team is expert in <b>Business Process Re-engineering</b>, using which we aim to achieve <b>dramatic improvements in the Digital Healthcare Infrastructure of Pakistan</b>.
+
+          </p>
+             
               <h4>Muhammad Khan</h4>
             </div>
           </div>
