@@ -45,6 +45,11 @@ host: 0.0.0.0
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+exclude:
+  - "package.json"
+  - "README.md"
+  - "publish.sh"
+  - "vendor"
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
